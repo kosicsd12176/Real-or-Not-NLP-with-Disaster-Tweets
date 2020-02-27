@@ -12,3 +12,4 @@ What am I predicting?
 
 You are predicting whether a given tweet is about a real disaster or not. If so, predict a 1. If not, predict a 0
 
+The embedding layer created from pre-trained word vectors: Global Vectors for Word Representation, the picture in our repository represents our model Architecture.
